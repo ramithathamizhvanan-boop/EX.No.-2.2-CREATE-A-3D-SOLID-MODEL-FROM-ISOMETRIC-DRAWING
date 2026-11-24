@@ -19,6 +19,7 @@ PROCEDURE:
 2. I selected the XY plane and created a sketch for the base plate.
 
 
+<img width="713" height="963" alt="1" src="https://github.com/user-attachments/assets/c5ea11c7-5caa-4ae0-8562-94a6b4dde8b3" />
 
 
 
@@ -31,6 +32,7 @@ PROCEDURE:
 4. I created two circular holes on both ends of the base plate and positioned them equally.
 
 
+<img width="531" height="700" alt="2" src="https://github.com/user-attachments/assets/9bdc1d13-06b9-4e78-a25a-7d042b41e3fd" />
 
 
 5. I used the Extrude command to give the base plate the required thickness.
@@ -43,6 +45,7 @@ PROCEDURE:
 
 7. I extruded the rectangular portion vertically to form the supporting block.
 
+<img width="1080" height="491" alt="4" src="https://github.com/user-attachments/assets/37cc9478-cb33-4b97-9e93-82e2586ecba7" />
 
 
 
@@ -55,6 +58,7 @@ PROCEDURE:
 9. I created the upper tapered portion using a suitable sketch and Extrude operation.
 
 
+<img width="829" height="366" alt="5" src="https://github.com/user-attachments/assets/384e3ca4-2381-4195-bd12-c151f9725c43" />
 
 
 10. At the top of the tapered portion, I drew two concentric circles to form the cylindrical boss.
@@ -72,6 +76,8 @@ PROCEDURE:
 
 12. Finally, I checked all the dimensions, applied the required features and completed the 3D model.
 
+
+<img width="686" height="694" alt="6" src="https://github.com/user-attachments/assets/41b51045-3ab6-4f7e-bb91-b8014cc458c4" />
 
 
 Output
